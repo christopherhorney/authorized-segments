@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Generated output
+bulk_import_output/
+Old files/
+
+# Logs
+*.log
+
+# Optional CSV outputs
+Authorized Segments_*.csv
